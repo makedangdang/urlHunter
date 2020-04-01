@@ -22,7 +22,7 @@ headers={
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
     "Accept-Encoding": "gzip, deflate",
     "Accept-Language": "zh-CN,zh;q=0.9",
-    "Cookie": "BAIDUID=B6D48CDAACE9E00DEE444E15F0830EF9:FG=1; BIDUPSID=F0B90A1FD56365D00A9ABFC70C06194E; BDORZ=B490B5EBF6F3CD402E515D22BCDA1598; PSTM=1584264211; delPer=0; BD_CK_SAM=1; PSINO=3; H_PS_PSSID=30975_1435_21094_30842_30824_26350_30717; BD_UPN=12314353; H_PS_645EC=5444UcMDlyCN5adXuqZxiDLdafBYTTQrvxrBsUxzl6LXR6JNAma5isZCfPc"
+    "Cookie": "BAIDUID={your BAIDUID}:FG=1; BIDUPSID={your BIDUPSID}; BDORZ={BDORZ}; PSTM=1584264211; delPer=0; BD_CK_SAM=1; PSINO=3; H_PS_PSSID=30975_1435_21094_30842_30824_26350_30717; BD_UPN=12314353; H_PS_645EC=5444UcMDlyCN5adXuqZxiDLdafBYTTQrvxrBsUxzl6LXR6JNAma5isZCfPc"
     }
 
 
